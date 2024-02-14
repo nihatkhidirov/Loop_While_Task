@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\bin\Debug\net6.0\Loop_Switch.exe
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\bin\Debug\net6.0\Loop_Switch.deps.json
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\bin\Debug\net6.0\Loop_Switch.runtimeconfig.json
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\bin\Debug\net6.0\Loop_Switch.dll
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\bin\Debug\net6.0\Loop_Switch.pdb
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\obj\Debug\net6.0\Loop_Switch.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\obj\Debug\net6.0\Loop_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\obj\Debug\net6.0\Loop_Switch.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\obj\Debug\net6.0\Loop_Switch.AssemblyInfo.cs
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\obj\Debug\net6.0\Loop_Switch.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\obj\Debug\net6.0\Loop_Switch.dll
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\obj\Debug\net6.0\refint\Loop_Switch.dll
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\obj\Debug\net6.0\Loop_Switch.pdb
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\obj\Debug\net6.0\Loop_Switch.genruntimeconfig.cache
+C:\Users\hp\Desktop\Switch_Case_While\Loop_Switch\obj\Debug\net6.0\ref\Loop_Switch.dll
